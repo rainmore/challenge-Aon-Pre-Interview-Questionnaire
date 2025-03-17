@@ -1,5 +1,6 @@
-package au.com.rainmore.task1;
+package au.com.rainmore.task1.solution1;
 
+import au.com.rainmore.task1.MyIncDec;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
